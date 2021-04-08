@@ -1,7 +1,7 @@
 app:
   name: AppZ IDE
   code: APPZIDE
-  notify: pgadipally@ecloudcontrol.com
+  notify: priyankagadipally123@gmail.com
 
 build:
   version: 0.2
@@ -25,5 +25,5 @@ volumes:
   size: 5Gi 
 
 properties:
-  IDE_PASSWORD_HASH: "appz:$2y$10$3uPB4F4Ji5zz8yMJFCSrw.NWBZMclrIQ69RdGgXB6G8NJqR7fDkfm"
+  IDE_PASSWORD_HASH: "appz:$2y$10$PgqJO8ppHjKXBt87tRVvx.ga2Z11IrbKbxc3N5SY2qP56fcur835i"
   revision : 16
